@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Snehal P. Nakil</h1>
-<h3 align="center">Passionate Frontend Web Developer</h3>
-<img align="right" alt="CodingWorld" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
-
+<h1 align="center">Hi 👋, I'm Snehal Nakil</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalnakil-17&label=Profile%20views&color=0e75b6&style=flat" alt="snehalnakil-17" /> </p>
 
-- 🌱 I’m currently learning **Angular Js, Django, MEAN stack**
+- 🚀 Frontend Alchemist | Code Wizard | JavaScript Artisan 🪄
+  
+- 🔮 Unleashing JavaScript Magic, Taming HTML & CSS 🪄
+ 
+- 🌌 Navigating the Cosmos of ReactJS and Beyond 🌐
 
-- 👨‍💻 All of my projects are available at [https](https)
+- 🌱 Continuously Learning, Forever Evolving 🚀
 
-- 📝 I regularly write articles on [https](https)
+- 📡 Exploring the MEAN & MERN Stacks 🌐
 
-- 💬 Ask me about **HTML, CSS, Js, React, Java, C++**
+- 🌱 Always Learning, Forever Coding 🚀
+
+- 🚀 Crafting digital symphonies in C++, orchestrating Java's elegance, and painting web dreams with the strokes of a frontend maestro.💻🎨
+
+- 👨‍💻 All of my projects are available at [https://github.com/SnehalNakil-17](https://github.com/SnehalNakil-17/)
 
 - 📫 How to reach me **nsnehal2003@gmail.com**
-
-- 📄 Know about my experiences [https](https)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
